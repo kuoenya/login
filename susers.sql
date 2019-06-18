@@ -3,8 +3,6 @@
 -- https://www.phpmyadmin.net/
 --
 -- 主機： localhost
--- 產生時間： 2019 年 06 月 18 日 11:33
--- 伺服器版本： 10.3.15-MariaDB
 -- PHP 版本： 7.1.30
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
@@ -45,7 +43,7 @@ INSERT INTO `susers` (`userid`, `email`, `password`, `guid`) VALUES
 (3, 'kuoya@user.com', 'kuoya', '035558eaddd241a5dfd75057acb95d0e');
 
 --
--- 已傾印資料表的索引
+-- 
 --
 
 --
@@ -55,7 +53,7 @@ ALTER TABLE `susers`
   ADD PRIMARY KEY (`userid`);
 
 --
--- 在傾印的資料表使用自動遞增(AUTO_INCREMENT)
+-- (AUTO_INCREMENT)
 --
 
 --
