@@ -1,5 +1,4 @@
 # login
-simple_login
 
 config.php - 登入資料庫的資料
 
