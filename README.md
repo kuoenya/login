@@ -10,6 +10,8 @@ incsession.php - 檢查會員是否已登入
 
 test.php - 需要驗證才能登入的網頁
 
+susers.sql - 資料庫的設定
+
 First you will view a login page,
 
 then after verify the user data, 
